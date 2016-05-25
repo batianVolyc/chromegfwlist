@@ -275,6 +275,14 @@ china-mmm.sa.com
 ||ytimg.com
 ||zynamics.com
 
+!!---batianzh---
+||pcc.edu
+||lastpass.com
+||openccc.net
+||gitbook.io
+
+
+
 !!---KickASS---
 !--OFFICIAL URL list at: https://kastatus.com
 .kat.cr
